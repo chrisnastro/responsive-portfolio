@@ -92,6 +92,10 @@ We are making the product card not growable, not shrinkable, and with an initial
   width: 100%;
 }
 
+.icons {
+  margin: 15px;
+  padding: 15px;
+}
 /* 
 What does the flex-direction property define?
 It defines in which direction the container wants to stack the flex items
@@ -104,3 +108,4 @@ We are telling the main body and navbar to stack vertically in a column
     flex-direction: column;
   }
 }
+
